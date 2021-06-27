@@ -1,2 +1,2 @@
-# Thonnyfileviewer
-* A viewer, that lets you see what the user did or did not do in the course of coding their programs with the logging enabled.
+# Thonny log file viewer
+This viewer was made because there is no way to view them easily. It lets you see what an user was doing(deleting or copy pasteing or typing data) just by selecting a log file created by Thonny.
